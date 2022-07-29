@@ -1,0 +1,4 @@
+- # sobre mim
+- Ola,meu nome é Luiz Fornieles
+- Moro em Quinta do Sol,Paraná
+- Sou aluno da diciplina de pensamento computacional
